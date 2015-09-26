@@ -1,5 +1,5 @@
 
-this AXXX file is edited in branch feature1!
+this $$$$ file is edited in branch **** feature1!
 
 this file is edited in dev branch!
 
